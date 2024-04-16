@@ -1,4 +1,4 @@
-﻿Ano;Semestre;CodConcelho;Concelho;Pedidos de Ligação à Rede Executados (#)
+﻿Ano,Semestre,CodConcelho,Concelho,Pedidos de Ligação à Rede Executados (#)
 2021;1;0702;Arraiolos;1.0
 2021;1;0302;Barcelos;2.0
 2021;1;1504;Barreiro;1.0
